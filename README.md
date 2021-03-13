@@ -1,6 +1,9 @@
 # horizon-code-refactor-hw1
 
-
+todo:
+description
+link to site
+screenshot
 
 # 01 HTML, CSS, and Git: Code Refactor
 
